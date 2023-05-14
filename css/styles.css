@@ -504,9 +504,9 @@ button:focus {
   fill: var(--hover-btn);
 }
 
-.social-icon{
+/* .social-icon{
   fill: #8e8f99;
-}
+} */
 
 .costumers-link:hover,
 .costumers-link:focus{
