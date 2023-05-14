@@ -484,7 +484,7 @@ button:focus {
   
 }
 
-.costumers-link{
+.costumer-link{
   border: 1px solid #8E8F99;
   border-radius: 4px;
   width: 168px;
@@ -493,18 +493,23 @@ button:focus {
   justify-content: center;
   align-items: center;
   color: #8e8f99;
+  
 }
 
 
 
-.costumers-link:hover,
-.costumers-link:focus {
+.costumer-link:hover, .costumer-link:focus{
   color: var(--hover-btn);
   border-color: var(--hover-btn);
+  
 }
 
 .icon{
   fill: currentColor;
+}
+
+.icon:hover, .icon:focus{
+  fill: var(--hover-btn);
 }
 
 .social-list-link:hover,
