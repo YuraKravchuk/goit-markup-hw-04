@@ -496,11 +496,15 @@ button:focus {
   
 }
 
-
-
 .costumer-link:hover, .costumer-link:focus{
   color: var(--hover-btn);
   border-color: var(--hover-btn);
+  
+}
+
+
+.costumer-link:hover .icon, .costumer-link:focus .icon{
+  fill: var(--hover-btn);
   
 }
 
