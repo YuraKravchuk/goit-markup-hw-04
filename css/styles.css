@@ -495,9 +495,7 @@ button:focus {
   color: #8e8f99;
 }
 
-.icon{
-  fill: currentColor;
-}
+
 
 .costumers-link:hover,
 .costumers-link:focus {
@@ -505,16 +503,9 @@ button:focus {
   border-color: var(--hover-btn);
 }
 
-
-
-.costumers-link:hover,
-.costumers-link:focus{
-  border-color: var(--hover-btn);
-  color: var(--hover-btn);
-
+.icon{
+  fill: currentColor;
 }
-
-
 
 .social-list-link:hover,
 .social-list-link:focus{
