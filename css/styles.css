@@ -508,9 +508,7 @@ button:focus {
   fill: currentColor;
 }
 
-.icon:hover, .icon:focus{
-  fill: var(--hover-btn);
-}
+
 
 .social-list-link:hover,
 .social-list-link:focus{
