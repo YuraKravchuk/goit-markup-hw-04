@@ -497,6 +497,7 @@ button:focus {
 
 .social-icon{
   fill: currentColor;
+  color: #8e8f99;
 }
 
 .social-icon:hover,
@@ -504,9 +505,7 @@ button:focus {
   fill: var(--hover-btn);
 }
 
-/* .social-icon{
-  fill: #8e8f99;
-} */
+
 
 .costumers-link:hover,
 .costumers-link:focus{
