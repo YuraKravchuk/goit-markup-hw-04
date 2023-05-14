@@ -499,9 +499,10 @@ button:focus {
   fill: currentColor;
 }
 
-.social-icon:hover,
-.social-icon:focus {
-  fill: var(--hover-btn);
+.costumers-link:hover,
+.costumers-link:focus {
+  color: var(--hover-btn);
+  border-color: var(--hover-btn);
 }
 
 
