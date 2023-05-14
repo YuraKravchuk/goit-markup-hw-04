@@ -495,9 +495,8 @@ button:focus {
   color: #8e8f99;
 }
 
-.social-icon{
+.icon{
   fill: currentColor;
-  
 }
 
 .social-icon:hover,
