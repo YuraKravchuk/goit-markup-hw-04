@@ -473,7 +473,7 @@ button:focus {
   padding: 120px 0;
 }
 
-.cost-title{
+.cust-title{
   line-height: 1.1;
 }
 
@@ -528,5 +528,7 @@ button:focus {
   align-items: center;
   height: 112px;
   margin-bottom: 8px;
+  background-color: var(--cloud-color);
+  border-radius: 4px;
 }
 
