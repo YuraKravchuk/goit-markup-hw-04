@@ -162,6 +162,8 @@ body {
   max-width: 1440px;
   background-repeat: no-repeat;
   background-position: center;
+  height: 680px;
+  margin: 0 auto;
 }
 
 .main-title {
@@ -255,10 +257,6 @@ body {
 .section-cards {
   background: var(--cloud-color);
   text-align: center;
-  color: var(--accent-color);
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 108px;
 }
 
 .card {
@@ -333,10 +331,7 @@ button:focus {
 }
 
 
-.link:hover,
-.link:focus {
-  color: var(--hover-btn);
-}
+
 
 .portfolio-btn {
   color: var(--logo-color);
@@ -426,7 +421,7 @@ button:focus {
 }
 
 .footer-logo{
-  gap: 120px;
+  margin-right: 120px;
 }
 
 
@@ -469,7 +464,7 @@ button:focus {
 }
 
 .costumers{
-  margin-bottom: 132px;
+  
   padding: 120px 0;
 }
 
@@ -509,7 +504,7 @@ button:focus {
 }
 
 .icon{
-  fill: currentColor;
+  fill: #8e8f99;
 }
 
 
@@ -524,7 +519,6 @@ button:focus {
   justify-content: center;
   align-items: center;
   height: 112px;
-  margin-bottom: 8px;
   background-color: var(--cloud-color);
   border-radius: 4px;
 }
